@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wiki>
+  <items>
+    <herramientas>
+
+      <picos_y_taladros>
+        <prehardmode>
+
+          <item nombre="Cactus Pickaxe" url="https://terraria.wiki.gg/wiki/Cactus_Pickaxe" id="882">
+            <estadisticas poder_pico="35%" poder_hacha="-" poder_martillo="-" danio="4" bonus="-" tiempo_uso="25 (Fast)" velocidad_herramienta="16" empuje="2 (Very weak)" rareza="0 (White)" venta="4 Silver"/>
+            <creacion estado="verificado">
+              <receta estacion="Work Bench">
+                <ingrediente cantidad="15">Cactus</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Copper Pickaxe" url="https://terraria.wiki.gg/wiki/Copper_Pickaxe" id="3509">
+            <estadisticas poder_pico="35%" poder_hacha="-" poder_martillo="-" danio="4" bonus="-1 range" tiempo_uso="23 (Fast)" velocidad_herramienta="15" empuje="2 (Very weak)" rareza="0 (White)" venta="1 Silver"/>
+            <creacion estado="verificado">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="8">Copper Bar</ingrediente>
+                <ingrediente cantidad="4">Any Wood</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Tin Pickaxe" url="https://terraria.wiki.gg/wiki/Tin_Pickaxe" id="3503">
+            <estadisticas poder_pico="35%" poder_hacha="-" poder_martillo="-" danio="5" bonus="-" tiempo_uso="21 (Fast)" velocidad_herramienta="14" empuje="2 (Very weak)" rareza="0 (White)" venta="1 Silver 50 Copper"/>
+            <creacion estado="parcial">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="desconocida">Tin Bar</ingrediente>
+                <ingrediente cantidad="4">Any Wood</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Iron Pickaxe" url="https://terraria.wiki.gg/wiki/Iron_Pickaxe" id="1">
+            <estadisticas poder_pico="40%" poder_hacha="-" poder_martillo="-" danio="5" bonus="-" tiempo_uso="20 (Very fast)" velocidad_herramienta="13" empuje="2 (Very weak)" rareza="0 (White)" venta="4 Silver"/>
+            <creacion estado="parcial">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="desconocida">Iron Bar</ingrediente>
+                <ingrediente cantidad="3">Any Wood</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Lead Pickaxe" url="https://terraria.wiki.gg/wiki/Lead_Pickaxe" id="3497">
+            <estadisticas poder_pico="43%" poder_hacha="-" poder_martillo="-" danio="6" bonus="-" tiempo_uso="19 (Very fast)" velocidad_herramienta="12" empuje="2 (Very weak)" rareza="0 (White)" venta="6 Silver"/>
+            <creacion estado="verificado">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="10">Lead Bar</ingrediente>
+                <ingrediente cantidad="3">Any Wood</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Silver Pickaxe" url="https://terraria.wiki.gg/wiki/Silver_Pickaxe" id="3515">
+            <estadisticas poder_pico="45%" poder_hacha="-" poder_martillo="-" danio="6" bonus="-" tiempo_uso="19 (Very fast)" velocidad_herramienta="11" empuje="2 (Very weak)" rareza="0 (White)" venta="10 Silver"/>
+            <creacion estado="parcial">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="desconocida">Silver Bar</ingrediente>
+                <ingrediente cantidad="4">Any Wood</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Tungsten Pickaxe" url="https://terraria.wiki.gg/wiki/Tungsten_Pickaxe" id="3491">
+            <estadisticas poder_pico="50%" poder_hacha="-" poder_martillo="-" danio="6" bonus="-" tiempo_uso="21 (Fast)" velocidad_herramienta="19" empuje="2 (Very weak)" rareza="0 (White)" venta="15 Silver"/>
+            <creacion estado="parcial">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="desconocida">Tungsten Bar</ingrediente>
+                <ingrediente cantidad="4">Any Wood</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Gold Pickaxe" url="https://terraria.wiki.gg/wiki/Gold_Pickaxe" id="3521">
+            <estadisticas poder_pico="55%" poder_hacha="-" poder_martillo="-" danio="6" bonus="-" tiempo_uso="20 (Very fast)" velocidad_herramienta="17" empuje="2 (Very weak)" rareza="0 (White)" venta="20 Silver"/>
+            <creacion estado="verificado">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="10">Gold Bar</ingrediente>
+                <ingrediente cantidad="4">Any Wood</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Candy Cane Pickaxe" url="https://terraria.wiki.gg/wiki/Candy_Cane_Pickaxe" id="1917" versiones="Desktop, Console, Old-gen console, Mobile">
+            <estadisticas poder_pico="55%" poder_hacha="-" poder_martillo="-" danio="7" bonus="-" tiempo_uso="20 (Very fast)" velocidad_herramienta="16" empuje="2.5 (Very weak)" rareza="0 (White)" venta="20 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Fossil Pickaxe" url="https://terraria.wiki.gg/wiki/Fossil_Pickaxe" id="4059" versiones="Desktop, Console, Mobile">
+            <estadisticas poder_pico="55%" poder_hacha="-" poder_martillo="-" danio="8" bonus="-" tiempo_uso="18 (Very fast)" velocidad_herramienta="14" empuje="4 (Weak)" rareza="1 (Blue)" venta="30 Silver"/>
+            <creacion estado="verificado">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="12">Sturdy Fossil</ingrediente>
+                <ingrediente cantidad="4">Any Wood</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Bone Pickaxe" url="https://terraria.wiki.gg/wiki/Bone_Pickaxe" id="1320">
+            <estadisticas poder_pico="55%" poder_hacha="-" poder_martillo="-" danio="8" bonus="-" tiempo_uso="19 (Very fast)" velocidad_herramienta="11" empuje="3 (Very weak)" rareza="1 (Blue)" venta="30 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Platinum Pickaxe" url="https://terraria.wiki.gg/wiki/Platinum_Pickaxe" id="3485">
+            <estadisticas poder_pico="59%" poder_hacha="-" poder_martillo="-" danio="7" bonus="-" tiempo_uso="19 (Very fast)" velocidad_herramienta="15" empuje="2 (Very weak)" rareza="0 (White)" venta="30 Silver"/>
+            <creacion estado="verificado">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="10">Platinum Bar</ingrediente>
+                <ingrediente cantidad="4">Any Wood</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Reaver Shark" url="https://terraria.wiki.gg/wiki/Reaver_Shark" id="2341">
+            <estadisticas poder_pico="59%" poder_hacha="-" poder_martillo="-" danio="16" bonus="-" tiempo_uso="22 (Fast)" velocidad_herramienta="13" empuje="3 (Very weak)" rareza="3 (Orange)" venta="1 Gold 50 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Nightmare Pickaxe" url="https://terraria.wiki.gg/wiki/Nightmare_Pickaxe" id="103">
+            <estadisticas poder_pico="65%" poder_hacha="-" poder_martillo="-" danio="9" bonus="-" tiempo_uso="20 (Very fast)" velocidad_herramienta="15" empuje="3 (Very weak)" rareza="1 (Blue)" venta="36 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Deathbringer Pickaxe" url="https://terraria.wiki.gg/wiki/Deathbringer_Pickaxe" id="798">
+            <estadisticas poder_pico="70%" poder_hacha="-" poder_martillo="-" danio="12" bonus="-" tiempo_uso="22 (Fast)" velocidad_herramienta="14" empuje="3.5 (Weak)" rareza="1 (Blue)" venta="36 Silver"/>
+            <creacion estado="verificado">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="12">Crimtane Bar</ingrediente>
+                <ingrediente cantidad="6">Tissue Sample</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Molten Pickaxe" url="https://terraria.wiki.gg/wiki/Molten_Pickaxe" id="122">
+            <estadisticas poder_pico="100%" poder_hacha="-" poder_martillo="-" danio="12" bonus="-" tiempo_uso="23 (Fast)" velocidad_herramienta="18" empuje="2 (Very weak)" rareza="3 (Orange)" venta="54 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+        </prehardmode>
+      </picos_y_taladros>
+
+      <hachas_y_motosierras>
+        <prehardmode>
+
+          <item nombre="Copper Axe" url="https://terraria.wiki.gg/wiki/Copper_Axe" id="3506">
+            <estadisticas poder_pico="-" poder_hacha="35%" poder_martillo="-" danio="3" bonus="-1 range" tiempo_uso="30 (Average)" velocidad_herramienta="21" empuje="4.5 (Average)" rareza="0 (White)" venta="80 Copper"/>
+            <creacion estado="verificado">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="6">Copper Bar</ingrediente>
+                <ingrediente cantidad="3">Any Wood</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Tin Axe" url="https://terraria.wiki.gg/wiki/Tin_Axe" id="3500">
+            <estadisticas poder_pico="-" poder_hacha="40%" poder_martillo="-" danio="4" bonus="-" tiempo_uso="28 (Average)" velocidad_herramienta="20" empuje="4.5 (Average)" rareza="0 (White)" venta="1 Silver 20 Copper"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Iron Axe" url="https://terraria.wiki.gg/wiki/Iron_Axe" id="10">
+            <estadisticas poder_pico="-" poder_hacha="45%" poder_martillo="-" danio="5" bonus="-" tiempo_uso="27 (Average)" velocidad_herramienta="19" empuje="4.5 (Average)" rareza="0 (White)" venta="3 Silver 20 Copper"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Lead Axe" url="https://terraria.wiki.gg/wiki/Lead_Axe" id="3494">
+            <estadisticas poder_pico="-" poder_hacha="50%" poder_martillo="-" danio="6" bonus="-" tiempo_uso="28 (Average)" velocidad_herramienta="19" empuje="4.5 (Average)" rareza="0 (White)" venta="4 Silver 80 Copper"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Silver Axe" url="https://terraria.wiki.gg/wiki/Silver_Axe" id="3512">
+            <estadisticas poder_pico="-" poder_hacha="50%" poder_martillo="-" danio="6" bonus="-" tiempo_uso="26 (Average)" velocidad_herramienta="18" empuje="4.5 (Average)" rareza="0 (White)" venta="8 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Tungsten Axe" url="https://terraria.wiki.gg/wiki/Tungsten_Axe" id="3488">
+            <estadisticas poder_pico="-" poder_hacha="55%" poder_martillo="-" danio="7" bonus="-" tiempo_uso="26 (Average)" velocidad_herramienta="18" empuje="4.5 (Average)" rareza="0 (White)" venta="12 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Gold Axe" url="https://terraria.wiki.gg/wiki/Gold_Axe" id="3518">
+            <estadisticas poder_pico="-" poder_hacha="55%" poder_martillo="-" danio="7" bonus="-" tiempo_uso="26 (Average)" velocidad_herramienta="18" empuje="4.5 (Average)" rareza="0 (White)" venta="16 Silver"/>
+            <creacion estado="verificado">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="8">Gold Bar</ingrediente>
+                <ingrediente cantidad="3">Any Wood</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Platinum Axe" url="https://terraria.wiki.gg/wiki/Platinum_Axe" id="3482">
+            <estadisticas poder_pico="-" poder_hacha="60%" poder_martillo="-" danio="8" bonus="-" tiempo_uso="25 (Fast)" velocidad_herramienta="17" empuje="4.5 (Average)" rareza="0 (White)" venta="24 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Sawtooth Shark" url="https://terraria.wiki.gg/wiki/Sawtooth_Shark" tipo="motosierra">
+            <estadisticas estado="pendiente"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="War Axe of the Night" url="https://terraria.wiki.gg/wiki/War_Axe_of_the_Night" id="45">
+            <estadisticas poder_pico="-" poder_hacha="75%" poder_martillo="-" danio="20" bonus="-" tiempo_uso="30 (Average)" velocidad_herramienta="15" empuje="6 (Average)" rareza="1 (Blue)" venta="27 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Blood Lust Cluster" url="https://terraria.wiki.gg/wiki/Blood_Lust_Cluster" id="799">
+            <estadisticas poder_pico="-" poder_hacha="75%" poder_martillo="-" danio="22" bonus="-" tiempo_uso="32 (Slow)" velocidad_herramienta="15" empuje="6 (Average)" rareza="1 (Blue)" venta="27 Silver"/>
+            <creacion estado="verificado">
+              <receta estacion="Iron Anvil o Lead Anvil">
+                <ingrediente cantidad="10">Crimtane Bar</ingrediente>
+              </receta>
+            </creacion>
+          </item>
+
+          <item nombre="Meteor Hamaxe" url="https://terraria.wiki.gg/wiki/Meteor_Hamaxe" id="204">
+            <estadisticas poder_pico="-" poder_hacha="100%" poder_martillo="60%" danio="20" bonus="-" tiempo_uso="30 (Average)" velocidad_herramienta="16" empuje="7 (Strong)" rareza="1 (Blue)" venta="30 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Axe of Regrowth" url="https://terraria.wiki.gg/wiki/Axe_of_Regrowth" id="5295" versiones="Desktop, Console, Mobile">
+            <estadisticas poder_pico="-" poder_hacha="125%" poder_martillo="-" danio="20" bonus="-" tiempo_uso="24 (Fast)" velocidad_herramienta="12" empuje="5 (Average)" rareza="4 (Light Red)" venta="1 Gold 50 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Lucy the Axe" url="https://terraria.wiki.gg/wiki/Lucy_the_Axe" id="5095" versiones="Desktop, Console, Mobile">
+            <estadisticas poder_pico="-" poder_hacha="150%" poder_martillo="-" danio="27" bonus="-" tiempo_uso="15 (Very fast)" velocidad_herramienta="15" empuje="5 (Average)" rareza="2 (Green)" venta="1 Gold 50 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Molten Hamaxe" url="https://terraria.wiki.gg/wiki/Molten_Hamaxe" id="217">
+            <estadisticas poder_pico="-" poder_hacha="150%" poder_martillo="70%" danio="20" bonus="-" tiempo_uso="27 (Average)" velocidad_herramienta="14" empuje="7 (Strong)" rareza="3 (Orange)" venta="54 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+          <item nombre="Axearang" url="https://terraria.wiki.gg/wiki/Axearang" id="5519" versiones="Desktop, Console, Mobile">
+            <estadisticas poder_pico="-" poder_hacha="150%" poder_martillo="-" danio="20" bonus="-" tiempo_uso="20 (Very fast)" velocidad_herramienta="20" empuje="5 (Average)" rareza="4 (Light Red)" venta="1 Gold 50 Silver"/>
+            <creacion estado="pendiente"/>
+          </item>
+
+        </prehardmode>
+      </hachas_y_motosierras>
+
+    </herramientas>
+  </items>
+</wiki>

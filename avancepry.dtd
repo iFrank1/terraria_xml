@@ -1,0 +1,68 @@
+<!-- ============================================= -->
+<!-- DTD para documento XML de herramientas Terraria -->
+<!-- ============================================= -->
+
+<!-- Elemento raíz -->
+<!ELEMENT wiki (items)>
+
+<!-- Contenedor principal -->
+<!ELEMENT items (herramientas)>
+
+<!-- Sección de herramientas -->
+<!ELEMENT herramientas (picos_y_taladros, hachas_y_motosierras)>
+
+<!-- Categorías de herramientas -->
+<!ELEMENT picos_y_taladros (prehardmode)>
+<!ELEMENT hachas_y_motosierras (prehardmode)>
+
+<!-- Subcategoría por dificultad -->
+<!ELEMENT prehardmode (item+)>
+
+<!-- Elemento item -->
+<!ELEMENT item (estadisticas, creacion?)>
+
+<!ATTLIST item
+    nombre    CDATA #REQUIRED
+    url       CDATA #REQUIRED
+    id        CDATA #IMPLIED
+    versiones CDATA #IMPLIED
+    tipo      CDATA #IMPLIED
+>
+
+<!-- Estadísticas del item -->
+<!ELEMENT estadisticas EMPTY>
+
+<!ATTLIST estadisticas
+    poder_pico        CDATA #IMPLIED
+    poder_hacha       CDATA #IMPLIED
+    poder_martillo    CDATA #IMPLIED
+    danio             CDATA #IMPLIED
+    bonus             CDATA #IMPLIED
+    tiempo_uso        CDATA #IMPLIED
+    velocidad_herramienta CDATA #IMPLIED
+    empuje            CDATA #IMPLIED
+    rareza            CDATA #IMPLIED
+    venta             CDATA #IMPLIED
+    estado            CDATA #IMPLIED
+>
+
+<!-- Sección de creación -->
+<!ELEMENT creacion (receta?)>
+
+<!ATTLIST creacion
+    estado CDATA #REQUIRED
+>
+
+<!-- Receta de crafteo -->
+<!ELEMENT receta (ingrediente+)>
+
+<!ATTLIST receta
+    estacion CDATA #REQUIRED
+>
+
+<!-- Ingredientes -->
+<!ELEMENT ingrediente (#PCDATA)>
+
+<!ATTLIST ingrediente
+    cantidad CDATA #REQUIRED
+>
